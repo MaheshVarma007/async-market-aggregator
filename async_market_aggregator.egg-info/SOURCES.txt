@@ -1,0 +1,14 @@
+setup.py
+async_market_aggregator/__init__.py
+async_market_aggregator/api.py
+async_market_aggregator/config.py
+async_market_aggregator/fetcher.py
+async_market_aggregator/main.py
+async_market_aggregator/metrics.py
+async_market_aggregator/writer.py
+async_market_aggregator.egg-info/PKG-INFO
+async_market_aggregator.egg-info/SOURCES.txt
+async_market_aggregator.egg-info/dependency_links.txt
+async_market_aggregator.egg-info/entry_points.txt
+async_market_aggregator.egg-info/requires.txt
+async_market_aggregator.egg-info/top_level.txt

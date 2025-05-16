@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: async-market-aggregator
+Version: 0.1.0
+Requires-Dist: aiohttp
+Requires-Dist: aiolimiter
+Requires-Dist: aiosqlite
+Requires-Dist: tenacity
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: prometheus_client
+Dynamic: requires-dist

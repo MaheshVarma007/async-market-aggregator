@@ -1,0 +1,2 @@
+[console_scripts]
+market-aggregator = async_market_aggregator.main:cli_entry

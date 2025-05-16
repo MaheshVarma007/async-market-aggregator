@@ -1,0 +1,6 @@
+aiohttp
+aiolimiter
+aiosqlite
+tenacity
+prometheus_client
+time

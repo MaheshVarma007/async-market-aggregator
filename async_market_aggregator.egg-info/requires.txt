@@ -1,0 +1,7 @@
+aiohttp
+aiolimiter
+aiosqlite
+tenacity
+fastapi
+uvicorn
+prometheus_client
